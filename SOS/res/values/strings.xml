@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">SOS</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_set" translatable="false">set</string>
+    <string name="set_phone" translatable="false">发送手机号码：</string>
+    <string name="set_message" translatable="false">发送短信内容：</string>
+    <string name="ok" translatable="false">确定</string>
+
+</resources>
